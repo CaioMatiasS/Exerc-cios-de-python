@@ -1,0 +1,7 @@
+Modos 
+
+r - leitura
+a - append / incrementar
+w - escrita 
+x - criar arquivo
+r+ - leitura + escrita
